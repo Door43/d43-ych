@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ych:home|Door43 (ych)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ych|d43-ych repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ych/archive/master.zip|d43-ych.zip]]
+
+**Recent Changes**
+{{changes>ns = ych}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ych|Ethnologue data]]
+
